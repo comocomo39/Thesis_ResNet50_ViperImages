@@ -39,7 +39,7 @@ Il progetto è stato sviluppato utilizzando **Python** con le seguenti librerie:
 📁 **notebooks/** → Contiene gli script Jupyter Notebook per l’addestramento del modello e l’analisi dei risultati.
 
 - `imageswithoutcoordinates.ipynb` → Addestramento del modello con sole immagini.
-- `ResNet50_imageswithcoordinates.ipynb` → Addestramento combinato con immagini e coordinate.
+- `ResNet18_FineTuning.ipynb` → Addestramento combinato con immagini e coordinate.
 - `onlycoordinates.ipynb` → Modello addestrato solo con coordinate geografiche.
 
 📁 **dataset/** → Contiene le immagini e i dati geografici utilizzati.
